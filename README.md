@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # network-drive-scanner
 Network Drive Scanner est un outil CLI permettant de scanner et de monter automatiquement des disques réseau SMB sous Linux et macOS.
 =======
@@ -26,7 +25,7 @@ Network Drive Scanner est un outil CLI permettant de scanner et de monter automa
 ## Installation
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-repo/network-drive-scanner.git
+   git clone https://github.com/mvondo/network-drive-scanner.git
    cd network-drive-scanner
    ```
 2. Installer les dépendances :
